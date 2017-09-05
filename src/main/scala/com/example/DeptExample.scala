@@ -1,6 +1,6 @@
 package com.example
 
-class DeptExample {
+object DeptExample {
   def main(args: Array[String]): Unit = {
     var dept = new Dept
     dept.deptno = 10
