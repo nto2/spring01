@@ -6,11 +6,10 @@ class DeptExample {
     dept.deptno = 10
     dept.dname = "총무부"
     dept.loc = "서울"
-
-    println("deptno = " + dept.deptno)
-    println("dname = " + dept.dname)
-    println("loc = " + dept.loc)
-
-
+    
+    println("deptno = " + dept.deptno);
+    println("dname = " + dept.dname);
+    println("dloc = " + dept.loc);
+    
   }
 }
