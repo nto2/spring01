@@ -3,6 +3,6 @@
 .project
 .settings/
 .cache-main
-
+*.log
 
 
